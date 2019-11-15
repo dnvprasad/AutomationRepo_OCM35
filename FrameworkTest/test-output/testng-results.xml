@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32228" started-at="2019-07-11T17:15:39Z" finished-at="2019-07-11T17:16:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32228" started-at="2019-07-11T17:15:39Z" finished-at="2019-07-11T17:16:11Z">
+      <class name="com.actitime.test.CreateCustomer">
+        <test-method status="PASS" signature="ceraateCustomerTest()[pri:0, instance:com.actitime.test.CreateCustomer@7907ec20]" name="ceraateCustomerTest" duration-ms="32210" started-at="2019-07-11T22:45:39Z" finished-at="2019-07-11T22:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ceraateCustomerTest -->
+      </class> <!-- com.actitime.test.CreateCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
