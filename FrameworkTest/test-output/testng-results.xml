@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32228" started-at="2019-07-11T17:15:39Z" finished-at="2019-07-11T17:16:11Z">
+  <suite name="Default suite" duration-ms="283" started-at="2019-11-15T17:33:04Z" finished-at="2019-11-15T17:33:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32228" started-at="2019-07-11T17:15:39Z" finished-at="2019-07-11T17:16:11Z">
-      <class name="com.actitime.test.CreateCustomer">
-        <test-method status="PASS" signature="ceraateCustomerTest()[pri:0, instance:com.actitime.test.CreateCustomer@7907ec20]" name="ceraateCustomerTest" duration-ms="32210" started-at="2019-07-11T22:45:39Z" finished-at="2019-07-11T22:46:11Z">
+    <test name="Default test" duration-ms="283" started-at="2019-11-15T17:33:04Z" finished-at="2019-11-15T17:33:04Z">
+      <class name="com.actitime.test.ModifyCustomerTest">
+        <test-method status="PASS" signature="modifyCustomerTest()[pri:0, instance:com.actitime.test.ModifyCustomerTest@525b461a]" name="modifyCustomerTest" duration-ms="63" started-at="2019-11-15T23:03:04Z" finished-at="2019-11-15T23:03:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ceraateCustomerTest -->
-      </class> <!-- com.actitime.test.CreateCustomer -->
+        </test-method> <!-- modifyCustomerTest -->
+      </class> <!-- com.actitime.test.ModifyCustomerTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
