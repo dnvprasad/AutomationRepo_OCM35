@@ -15,7 +15,6 @@ public class EditingCustomerTest {
 		System.out.println("Step 1");
 		System.out.println("Step 2");
 		System.out.println("Step 3");
-		System.out.println("Step 4");
 	}
 
 }
